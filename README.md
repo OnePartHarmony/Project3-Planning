@@ -43,11 +43,11 @@ As a user I want the ability to…
 
 
 ## Technologies Used
-JavaScript
-Mongoose
-React
-React Bootstrap
-Express
+- JavaScript
+- Mongoose
+- React
+- React Bootstrap
+- Express
 
 
 ## Wireframes
