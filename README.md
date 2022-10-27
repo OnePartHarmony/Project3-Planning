@@ -2,12 +2,13 @@
 
 ## Overview
 
-### Name Ideas:
-Crystal Door
-Crystal Pane
-Hardware Limitation (because we, the software engineers are being limited by the hardware, which is the company)
+Name Ideas:
+- Crystal Door
+- Crystal Pane
+- Hardware Limitation (because we, the software engineers are being limited by the hardware, which is the company)
 
-The idea behind _________ is to give software engineers a place to share their experiences working for different companies, and allow those new engineers approaching companies to understand what to expect. By giving an average salary range for different classes of “experience”, it also gives the engineer good information that they can use to negotiate for their worth.
+
+The idea behind ______ is to give software engineers a place to share their experiences working for different companies, and allow those new engineers approaching companies to understand what to expect. By giving an average salary range for different classes of “experience”, it also gives the engineer good information that they can use to negotiate for their worth.
 
 
 ## User Stories
