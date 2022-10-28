@@ -23,10 +23,12 @@ As a user I want the ability to…
     - Description of company
     - Company's advertised values
 - Browse companies using a search function
-- Have a snapshot of each company that shows a general rating from 1-5 with decimals (i.e. 4.3, 1.5 etc.)
-- Have a “show” page for each company that has more information
-- Create reviews that can be as in depth or short as the user wants, to a certain point. ( there needs to be a general rating at the very least)
+- View a snapshot of each company that shows a general rating from 1-5 with decimals (i.e. 4.3, 1.5 etc.)
+- View a “show” page for each company that has more information
 - Comment both on the company and individual reviews
+
+- Create reviews that can be as in depth or short as the user wants, to a certain point. ( there needs to be a general rating at the very least)
+
 
 - MVP Reviews will contain
     - General rating from 1-5
